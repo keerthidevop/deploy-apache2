@@ -1,0 +1,13 @@
+class hello
+  {
+public static void main()
+
+{
+<<<<<<< HEAD
+System.out.println("hello from dev1 print hello");
+=======
+System.out.println("hello from dev1 modfied by dev2");
+>>>>>>> 6e72de824082a101a5a2b045649e9ec779e6f57c
+}
+}
+
