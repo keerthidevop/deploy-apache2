@@ -2,6 +2,6 @@ class hello
 {
 	public static void main()
 	{
-	System.out.println("hello from dev1");
+	System.out.println("hello from new dev1");
 	}
 	}
